@@ -1,1 +1,2 @@
 Ideas for my ICT project
+I will use Git to track my project changes
